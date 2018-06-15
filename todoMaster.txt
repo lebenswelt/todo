@@ -1,1 +1,16 @@
-update e324 Website on Lebenswelt
+Upload e324 Website from Laptop
+
+This is a second task. Empty Lines should be ignored, I think.
+»This is a subtask of the second task.
+»This could be either a second subtask or a subtask of the subtask. I haven't finalized the notation
+¶This is a completed task 
+« {Assigner Name} This is a task with an assigner 
+¦ {06152018} This is a task with a due date (in MMDDYYYY format) 
+»« {Assigner Name} ¦ {06152018} This is a subtask with an assigner and a due date.
+
+At Work
+»Update/Finish e324 Website on Github
+At Home
+»Costuming
+»»CAD Squalldron
+»MicroKali Iso -> Liveboot
