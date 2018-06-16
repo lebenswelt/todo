@@ -1,11 +1,14 @@
 ¶This is a completed task
 This is a task. Empty lines should be ignored.
 This task has a subtask.  «
-  This is a subtask. 
+  This is a subtask. Subtasks can be nested
   »
-¦ {06152018} This is a task with a due date (in MMDDYYYY format) 
- {Assigner Name} This is a task with an assigner. 
- 
+¦ #{06152018} This is a task with a due date (in MMDDYYYY format) 
+¦ !{Assigner Name} This is a task with an assigner. 
+¦ &{Tag} This is a task with a Tag.
+
+¦ #{06152018} ¦ !{Assigner Name} ¦ &{Tag} This is a task with a Due Date, an Assigner, and a Tag.
+
 At Work
 »Update/Finish e324 Website on Github
 
@@ -31,7 +34,7 @@ PiServ «
   Powered USB Hub
   »
 
-¦ {10012018} OctoberPirate «
+¦ #{10012018} OctoberPirate «
   Three-point Hat
   NeckCover
   Jacket
