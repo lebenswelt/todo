@@ -1,16 +1,57 @@
-Upload e324 Website from Laptop
-
-This is a second task. Empty Lines should be ignored, I think.
-»This is a subtask of the second task.
-»This could be either a second subtask or a subtask of the subtask. I haven't finalized the notation
-¶This is a completed task 
-« {Assigner Name} This is a task with an assigner 
+¶This is a completed task
+This is a task. Empty lines should be ignored.
+This task has a subtask.  «
+  This is a subtask. 
+  »
 ¦ {06152018} This is a task with a due date (in MMDDYYYY format) 
-»« {Assigner Name} ¦ {06152018} This is a subtask with an assigner and a due date.
-
+ {Assigner Name} This is a task with an assigner. 
+ 
 At Work
 »Update/Finish e324 Website on Github
+
 At Home
 »Costuming
-»»CAD Squalldron
-»MicroKali Iso -> Liveboot
+
+Wall-Mount Insignia
+Vacuum Apartment
+Dishes
+MicroKali Iso -> Liveboot
+
+Matey «
+  Design Matey.Swabby Vacuum
+  MSP430 Launchpad installer
+  C Drive Code
+  PartsList/GANTT/PLANNER
+  RFM22B research 
+  Matey.Cookie db
+  »
+
+PiServ «
+  XMBC img
+  Powered USB Hub
+  »
+
+¦ {10012018} OctoberPirate «
+  Three-point Hat
+  NeckCover
+  Jacket
+  Belts «
+    Pouches
+    Printed Connectors
+    »
+  Gauntlets
+  Squaldron
+  »
+
+eBay Shit «
+  Photos
+  Listings
+  »
+
+Miata Shit «
+  insurance «
+    Fayette Co. Clerk  «
+      OBDII
+      »
+    »
+  »
